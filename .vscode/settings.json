@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "off",
+    "python.defaultInterpreterPath": "/Users/nilesh.patil/opt/anaconda3/envs/streamlit/bin/python",
+    "python.languageServer": "Jedi",
+    "python.linting.banditEnabled": true
+}
